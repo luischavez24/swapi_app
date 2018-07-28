@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Swapi</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="btn_prev">Anterior</string>
+</resources>
